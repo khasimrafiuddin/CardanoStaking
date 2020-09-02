@@ -11,11 +11,13 @@ Our servers are located on highly efficient Linux environment which are maintain
 As you can see this website is very preliminary and under development. We will be going to add a lot more features in the near future. We will also be adding many more stats,  metrics and helpful data for people to make informed decisions.
 
 ```
-Facts to consider while you choose your pool
+**Facts to consider while you choose your pool**
 
 - **Lowest** possible EPOH fee _340_ADA
-- Low variable fee of `10%`to start with and break even.
+- Lowest possible variable fee of `10%`.
 - Fees will go down as more people join this pool. `It is a promise to all stakers of this pool`
 - Feature rich website coming in the near future
 - IOHK algoritm will not always favor saturated pools. [Check this article to make informed decision](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)
+- Do not get carried away with low fees and high saturation of funds. 
+- Operators with low fees may not be able to offer 99.99% uptime thus missing on the rewards
 ```
