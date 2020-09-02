@@ -13,8 +13,9 @@ As you can see this website is very preliminary and under development. We will b
 ```
 Facts to consider while you choose your pool
 
-- **Lowest** possible EPOH fee _340_ADA 
+- **Lowest** possible EPOH fee _340_ADA
 - Low variable fee of `10%`to start with and break even.
 - Fees will go down as more people join this pool. `It is a promise to all stakers of this pool`
 - Feature rich website coming in the near future
+- IOHK algoritm will not always favor saturated pools. [Check this article to make informed decision](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)
 ```
