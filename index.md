@@ -11,22 +11,9 @@ Our servers are located on highly efficient Linux environment which are maintain
 As you can see this website is very preliminary and under development. We will be going to add a lot more features in the near future. We will also be adding many more stats,  metrics and helpful data for people to make informed decisions.
 
 ```
-Facts to consider before you choose your pool
+Facts to consider while you choose your pool
 
-- Lowest possible EPOH fee 340 ADA 
-- Low variable fee of 10% to start but will be going down as more people join the pool
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **Lowest** possible EPOH fee _340_ADA 
+- Low variable fee of `10%`to start with and break even. . `Fees will be going down as more people join the pool that is a promise to all stakers of this pool`
+- Feature rich website coming in the future
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beehiveadapool/CardanoStaking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
