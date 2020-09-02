@@ -1,25 +1,20 @@
 ## Welcome to Cardano Staking pool
 
-You can use the [editor on GitHub](https://github.com/beehiveadapool/CardanoStaking/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As the name indicates we here are Honey Bee staking pool want our stake holders benefit the most with the lowest fixed and variable fees. Like a lavendar flower both provides a very pleasant smell to everyone who pass by and high nectat content to honey bees.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use use this pool id [ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8](https://pooltool.io/pool/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8/blocks) to stake you cardano.
 
-### Markdown
+Our servers are located on highly efficient Linux environment which are maintained by technical professional with decades of experience. These servers as running with and uptime of 99.99%
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Future plans
 
-```markdown
-Syntax highlighted code block
+As you can see this website is very preliminary and under development. We will be going to add a lot more features in the near future. We will also be adding many more stats,  metrics and helpful data for people to make informed decisions.
 
-# Header 1
-## Header 2
-### Header 3
+```
+Facts to consider before you choose your pool
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Lowest possible EPOH fee 340 ADA 
+- Low variable fee of 10% to start but will be going down as more people join the pool
 
 **Bold** and _Italic_ and `Code` text
 
