@@ -1,4 +1,4 @@
-## Welcome to Cardano Staking pool
+## Welcome to Cardano Lavender Staking pool
 
 As the name indicates we here at Honey Bee staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Like a lavendar flower provides both a very pleasant smell to anyone who pass by and at the same time provides a high nector content for honey bees. Let both of us (pool operators and stake holders) flourish together
 
