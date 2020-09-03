@@ -11,14 +11,15 @@ Our servers are located on highly efficient Linux environment which are maintain
 As you can see this website is very preliminary and under development. We do not believe in a lot of bells and whistles just for the sake of attracing customers. We are going to add a many more features in the near future. We will also be adding several stats, metrics and helpful data for ADA stakers to make informed choices.
 
 ```
-**Facts to consider while you choose your pool**
+Facts to consider while you choose your pool
 
-- We offer **Lowest** possible EPOH fee _340_ADA.
-- Lowest possible variable fee of `10%. Lowest is NOT always better. Check link below.
-- Fees will go down as more people join this pool. `It is a promise to all stakers of this pool`
+- We offer Lowest possible EPOH fee OF 340 ADA.
+- Lowest possible variable fee of 10%. Lowest is NOT always better. Check THE link provided below.
+- Fees will go down as more people join this pool.
+- We will adjust future fee structure in alighment to the IOHK algorithm for the optimal benefit of the stake holders.
 - Feature rich website coming in the near future
 
-- Do not get carried away with low fees and high saturation of funds. 
-- Operators with low fees may not be able to offer 99.99% uptime thus missing on the rewards
+- Do not get carried away by operators offering 0% fees and noded with high saturation of funds. 
+- You will experience that operators with low fees may not be able to offer 99.99% uptime of their systems thus missing out on the rewards
 ```
-**IOHK algoritm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  to make an informed decision
+**IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  to make an informed decision of your choice.
