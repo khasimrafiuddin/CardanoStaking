@@ -22,7 +22,7 @@ Our servers are located on highly fail safe and efficient Linux environment main
 
 ### Future plans
 
-As you can see this website is very preliminary and under development. We do not believe in a lot of bells and whistles just for the sake of attracing customers. We are going to add a many more features in the near future. We will also be adding several stats, metrics and helpful data for ADA stakers to make informed choices.
+As you can see this website is very preliminary and under development. We do not believe in a lot of bells and whistles just for the sake of attracing customers. We are going to add many more features in the near future. We will also be adding several stats, metrics and helpful data for ADA stakers to make informed choices.
 
 ```
 Facts to consider while you choose your pool
@@ -34,7 +34,7 @@ Facts to consider while you choose your pool
 - Feature rich website coming in the near future
 
 - Do not get carried away by operators offering 0% fees and with high saturation of funds. 
-- Also operators with low fees may not be able to offer 99.99% uptime thus missing out on ADA rewards
-- Low fee and high saturation of funds is not always good for the IOHK reward algorithm. See article below
+- In most cases operators with low fees will not be able to sustain and offer 99.99% uptime thus missing out on ADA rewards
+- Low fee and high saturation of funds is not always good for the IOHK rewards algorithm. See article below
 ```
-**IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  to make an informed decision of your choice and also help operators with low stake to promote true decentralization of the Cardano eco system.
+**IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  Make an informed decision of your liking and also help operators with low stake to promote true decentralization of the Cardano eco system.
