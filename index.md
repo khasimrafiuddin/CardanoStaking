@@ -20,6 +20,6 @@ Facts to consider while you choose your pool
 - Feature rich website coming in the near future
 
 - Do not get carried away by operators offering 0% fees and noded with high saturation of funds. 
-- You will experience that operators with low fees may not be able to offer 99.99% uptime of their systems thus missing out on the rewards
+- Operators with low fees may not be able to offer 99.99% uptime of their systems thus missing out on our rewards
 ```
 **IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  to make an informed decision of your choice.
