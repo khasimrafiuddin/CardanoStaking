@@ -1,3 +1,17 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<div id="googleAnalytics"></div>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49482893-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49482893-3');
+</script>
+
+
 ## Welcome to Arrow Cardano Staking pool
 
 We here at **Arrow** cardano staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Similar to a lavendar flower provides both a very pleasant aroma around it's surroundings and at the same time provides a high nector content for honey bees, let both of us (pool operators and stake holders) flourish together
