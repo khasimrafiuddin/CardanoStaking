@@ -38,3 +38,5 @@ Facts to consider while you choose your pool
 - Low fee and high saturation of funds is not always good for the IOHK rewards algorithm. See article below
 ```
 **IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  Make an informed decision of your liking and also help operators with low stake to promote true decentralization of the Cardano eco system.
+
+<a href="https://twitter.com/ADAarrowPool?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ADAarrowPool</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
