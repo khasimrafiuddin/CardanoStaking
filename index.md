@@ -2,7 +2,7 @@
 
 As the name indicates we here at Honey Bee staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Like a lavendar flower provides both a very pleasant smell to anyone who pass by and at the same time provides a high nector content for honey bees. Let both of us (pool operators and stake holders) flourish together
 
-You can use use this pool id [ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8](https://pooltool.io/pool/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8/blocks) to stake you cardano.
+You can use use this pool id [ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8](https://cardanoscan.io/pool/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8) to stake you cardano.
 
 Our servers are located on highly efficient Linux environment which are maintained 24x7 by technical professionals with decades of experience. These servers as running with an uptime of 99.999%
 
