@@ -1,6 +1,6 @@
 ## Welcome to Cardano Staking pool
 
-As the name indicates we here at Honey Bee staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Like a lavendar flower both provides a very pleasant smell to everyone who pass by and at the same time high nector content for honey bees. Let both of us (pool operators and stake holders) flourish together
+As the name indicates we here at Honey Bee staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Like a lavendar flower provides both a very pleasant smell to anyone who pass by and at the same time provides a high nector content for honey bees. Let both of us (pool operators and stake holders) flourish together
 
 You can use use this pool id [ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8](https://pooltool.io/pool/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8/blocks) to stake you cardano.
 
@@ -8,7 +8,7 @@ Our servers are located on highly efficient Linux environment which are maintain
 
 ### Future plans
 
-As you can see this website is very preliminary and under development. We are going to add a lot more features in the near future. We will also be adding many more stats,  metrics and helpful data for ADA stakers to make informed choices.
+As you can see this website is very preliminary and under development. We do not believe in a lot of bells and whistles just for the sake of attracing customers. We are going to add a many more features in the near future. We will also be adding several stats, metrics and helpful data for ADA stakers to make informed choices.
 
 ```
 **Facts to consider while you choose your pool**
