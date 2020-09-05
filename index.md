@@ -40,3 +40,18 @@ Facts to consider while you choose your pool
 **IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  Make an informed decision of your liking and also help operators with low stake to promote true decentralization of the Cardano eco system.
 
 <a href="https://twitter.com/ADAarrowPool?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ADAarrowPool</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Check some pool stats below**
+
+<script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$.getJSON('https://js.adapools.org/pools/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8/summary.json', function(data) { 
+$.each( data.data, function( i, val ) { 
+		a=new Array('tax_fix','pledge','total_stake');
+		if(parseInt(val) > 100000) val=Math.round(parseInt(val)/1000000);
+		if(i=='blocks_lifetime') val=parseInt(val) + parseInt(data.data.blocks_epoch);
+
+		$('#ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_'+i).html(val).text();   
+}); 
+		});
+</script>
