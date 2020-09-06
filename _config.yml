@@ -2,8 +2,8 @@
 
 theme: jekyll-theme-cayman
 
-ignore_theme_config: true
+include: [.well-known]
 
 github:
   is_project_page: false
-  include: [.well-known]
+  
