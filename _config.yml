@@ -6,4 +6,4 @@ ignore_theme_config: true
 
 github:
   is_project_page: false
-  include: .well-known
+  includes: .well-known
