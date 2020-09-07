@@ -1,26 +1,3 @@
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-W53Z32X');</script>
-<!-- End Google Tag Manager -->
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<div id="googleAnalytics"></div>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49482893-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-49482893-3');
-</script>
-
-
 ## Welcome to Arrow Cardano Staking pool
 
 We here at **Arrow** cardano staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Similar to a lavendar flower provides both a very pleasant aroma around it's surroundings and at the same time provides a high nector content for honey bees, let both of us (pool operators and stake holders) flourish together
@@ -51,11 +28,6 @@ Facts to consider while you choose your pool
 <a href="https://twitter.com/ADAarrowPool?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ADAarrowPool</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Check some pool stats below**
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W53Z32X"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
