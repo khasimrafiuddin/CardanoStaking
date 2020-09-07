@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 
 include: [.well-known]
 
-google_analytics: UA-xxxxxxxx-x
+google_analytics: GTM-W53Z32X
 
 github:
   is_project_page: false
