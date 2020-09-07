@@ -1,19 +1,4 @@
 
-<head>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-W53Z32X');</script>
-<!-- End Google Tag Manager -->
-</head>
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W53Z32X"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 ## Welcome to Arrow Cardano Staking pool
 
 We here at **Arrow** cardano staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Similar to a lavendar flower provides both a very pleasant aroma around it's surroundings and at the same time provides a high nector content for honey bees, let both of us (pool operators and stake holders) flourish together
