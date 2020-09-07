@@ -43,6 +43,11 @@ Facts to consider while you choose your pool
 
 **Check some pool stats below**
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W53Z32X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
 $.getJSON('https://js.adapools.org/pools/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8/summary.json', function(data) { 
